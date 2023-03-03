@@ -1,0 +1,5 @@
+"tailwindCSS" :- 
+    npm i @tailwindcss/line-clamp axios js-abbreviation-number react-player moment
+
+React Router :-
+    npm i react-router-dom react-icons
